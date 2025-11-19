@@ -86,5 +86,3 @@ Dieses Projekt ist ein Python-basiertes Machine-Learning-Projekt, das ein **ResN
 </div>
 
 <br>
-
-

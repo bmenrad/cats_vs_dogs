@@ -12,9 +12,16 @@
             <input type="file" name="file" accept="image/*" required>
             <button type="submit">Upload & Predict</button>
         </form>
+
         {% if result %}
             <h2>Result: {{ result }}</h2>
+        {% endif %}
+
+        {% if cam_path %}
+            <h3>Heatmap:</h3>
+            <img src="{{ cam_path }}" alt="Grad-CAM" style="max-width:400px; margin-top:10px;">
         {% endif %}
     </div>
 </body>
 </html>
+
