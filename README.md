@@ -63,8 +63,6 @@ Dieses Projekt ist ein Python-basiertes Machine-Learning-Projekt, das ein **ResN
 #### Bilder hochladen, um Vorhersagen zu erhalten (Cat oder Dog).
 
 #### Die App verwendet das gespeicherte Modell in saved_resnet/.
-
-#### CPU wird verwendet, GPU ist deaktiviert.
 -----------------------------------------------------------------------------------------
 <br>
 
@@ -72,7 +70,6 @@ Dieses Projekt ist ein Python-basiertes Machine-Learning-Projekt, das ein **ResN
 
 #### Große Dateien (Modell) werden über Git LFS verwaltet (saved_resnet/variables/).
 #### Virtuelle Umgebung (.venv/) ist in .gitignore enthalten und wird nicht hochgeladen.
-#### Alte große Dateien wie dogs-vs-cats.zip werden nicht benötigt und sind nicht im Repository.
 <br>
 
 ### Lizenz
