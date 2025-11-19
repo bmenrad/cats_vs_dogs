@@ -78,3 +78,13 @@ Dieses Projekt ist ein Python-basiertes Machine-Learning-Projekt, das ein **ResN
 ### Lizenz
 
 #### Dieses Projekt ist frei verwendbar.
+
+<div style="text-align:center;">
+  <img src="https://ben.forfiles.de/wp-content/uploads/2025/11/cats_vs_dogs-logo.png" 
+       alt="Man vs Machine Logo" 
+       width="400" />
+</div>
+
+<br>
+
+
